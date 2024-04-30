@@ -1,0 +1,88 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.img-home img {
+    width: 100%;
+}
+
+.foco {
+    width: 5%;
+    position: absolute;
+}
+
+#foco-room {
+    top: 55%;
+    left: 50%;
+}
+
+#foco-hall {
+    top: 55%;
+    left: 31%;
+}
+
+#fGarden1 {
+    top: 6%;
+    left: 80%;
+}
+
+#fGarden2 {
+    top: 25%;
+    left: 80%;
+}
+
+#fGarden3 {
+    top: 44%;
+    left: 80%;
+}
+
+#fGarden4 {
+    top: 62%;
+    left: 80%;
+}
+
+#fGarden5 {
+    top: 44%;
+    left: 90%;
+}
+
+#ventilador {
+    top: 25%;
+    left: 35%;
+    width: 15%;
+}
+
+#curtain1 {
+    top: 2%;
+    left: 61%;
+    width: 10%;
+}
+#curtain2 {
+    top: 60%;
+    left: 67%;
+    width: 8%;
+}
+#curtain3 {
+    top: 20%;
+    left: 26%;
+    width: 8%;
+}
+
+#alarm {
+    top: 30%;
+    left: 20%;
+}
+
+#camera1 {
+    top: 80%;
+    left: 20%;
+}
+#camera2 {
+    top: 60%;
+    left: 20%;
+}
+#camera3 {
+    top: 2%;
+    left: 15%;
+}

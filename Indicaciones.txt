@@ -1,0 +1,41 @@
+Objetivo
+
+Desarrollar una solución IHC que permita ejecutar órdenes de forma remota.
+
+
+Problema
+
+Crea una solución IHC en ambiente Web que permita recibir órdenes por medio de la voz cuando se dé una indicación clave como “Alexa…”. Las órdenes que se deben ejecutar son:
+
+Enciende/apaga la luz de la recámara (1 foco)
+Enciende/apaga la luz de la sala (1 foco)
+Enciende/apaga las luces del jardín (5 focos)
+Enciende/apaga el ventilador (1 ventilador de techo)
+Abre/cierra las cortinas (3 cortinas)
+Activa/desactiva la alarma de la casa (1 alarma con chicharra)
+Enciende/apaga las cámaras de seguridad (3 cámaras de videovigilancia)
+
+Reglas de negocio
+
+La solución debe tener una aplicación de detección de voz y una aplicación de monitoreo
+Las órdenes deben darse únicamente por medio de un usuario autorizado por medio de pin numérico activado por voz
+Cada dispositivo que se debe controlar estará animado con la orden correspondiente
+Se debe incluir un plano de una casa con las imágenes de las órdenes
+Las órdenes se deben almacenar en una base de datos NoSQL remota
+Cada orden debe almacenar: id, orden, usuario, fecha y hora
+Las aplicaciones Web deben estar alojadas en repositorios distintos
+
+Actividad
+
+Trabaja de manera individual
+Crea un documento de texto con portada institucional que contenga: Logo de la institución, Nombre de la materia, Nombre del tema, Nombre del maestro, Nombre del alumno y Fecha
+Resuelve el problema planteado
+Verifica la correcta ejecución de tu aplicación en un escenario público
+
+Evidencia
+
+Sube a la plataforma:
+
+Exporta tu documento a formato PDF con la evidencia de los incisos en verde
+En la zona de comentarios agrega la URL de tus aplicaciones Github Page
+Al añadir un envío en esta tarea, escribe tus conclusiones de la actividad
